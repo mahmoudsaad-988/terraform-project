@@ -32,4 +32,4 @@ The codebase deploys two primary infrastructural stacks:
 ├── eks.tf             # EKS Cluster, VPC, Node Groups, and IAM roles
 ├── variables.tf       # Input variable structures (Defines secure credentials)
 ├── terraform.tfvars   # Local runtime secrets (DO NOT COMMIT TO VERSION CONTROL)
-└── README.md          # Project documentation and execution instructions
+└── README.md          # Project documentation 
