@@ -16,5 +16,5 @@ variable "aws_secret_key" {
 variable "db_password" {
   type      = string
   sensitive = true
-  default   = "db*pass123"
+  
 }
